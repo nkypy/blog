@@ -1,0 +1,17 @@
+# site title
+title: nkypy's land
+
+# github user
+user: nkypy
+
+# issue repo
+repo: blog
+
+# multi-author
+authors:
+
+# per page
+per_page: 6
+
+#sandbox
+sandbox: false

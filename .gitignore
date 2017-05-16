@@ -1,14 +1,4 @@
-*.bak
-*.swp
-*.swo
-*.log
-*~
+Thumbs.db
 .DS_Store
-node_modules/*
-
+*.swp
 token.txt
-
-index.html
-!dist/index.html
-
-build.js
