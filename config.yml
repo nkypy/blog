@@ -1,17 +1,22 @@
+# is a organization repository
+organization: false
+
 # site title
 title: nkypy's land
 
-# github user
+# user name or organization name
 user: nkypy
 
-# issue repo
-repo: blog
+# issue repository
+repository: blog
 
 # multi-author
 authors:
 
-# per page
-per_page: 6
+# token
+# token should be separated by '#'
+# example: 5#c31bffc137f44faf7efc4a84da827g7ca2cfeaa
+token: d6b0faa5e86#424918352fa32fb22d156d1e1d65a
 
-#sandbox
-sandbox: false
+# posts per page
+perpage: 8
