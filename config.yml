@@ -1,6 +1,11 @@
 # is a organization repository
 organization: false
 
+# post order
+# order by create time" or "update time"
+# 'UPDATED_AT' or 'CREATED_AT'
+order: 'UPDATED_AT'
+
 # site title
 title: nkypy's land
 
