@@ -2,3 +2,5 @@ Thumbs.db
 .DS_Store
 *.swp
 token.txt
+node_modules
+
