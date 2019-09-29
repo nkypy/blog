@@ -3,4 +3,4 @@ Thumbs.db
 *.swp
 token.txt
 node_modules
-
+config.yml
